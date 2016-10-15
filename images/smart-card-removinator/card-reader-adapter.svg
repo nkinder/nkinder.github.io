@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="538.84039pt"
-   height="166.11777pt"
-   viewBox="0 0 538.84041 166.11777"
+   width="1403.5659pt"
+   height="409.64499pt"
+   viewBox="0 0 1403.566 409.645"
    version="1.2"
    id="svg6729"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="card_reader_adapter.svg">
+   sodipodi:docname="card-reader-adapter.svg">
   <metadata
      id="metadata9282">
     <rdf:RDF>
@@ -41,9 +41,9 @@
      inkscape:window-height="1016"
      id="namedview9278"
      showgrid="false"
-     inkscape:zoom="1.1113613"
-     inkscape:cx="344.42714"
-     inkscape:cy="373.31074"
+     inkscape:zoom="0.55568064"
+     inkscape:cx="996.29379"
+     inkscape:cy="206.91273"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
      fit-margin-left="10" />
   <g
      id="surface580407"
-     transform="matrix(0,1,-1,0,700.91044,-160.42158)">
+     transform="matrix(0,2.6666503,-2.6666503,0,1852.4165,-444.45477)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79971004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
        d="m 2519.9997,1275 0,-375"
