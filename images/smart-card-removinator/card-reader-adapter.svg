@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="595.275591pt"
-   height="841.889764pt"
-   viewBox="0 0 595.275591 841.889764"
+   width="538.84039pt"
+   height="166.11777pt"
+   viewBox="0 0 538.84041 166.11777"
    version="1.2"
    id="svg6729"
    inkscape:version="0.91 r13725"
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,15 +42,19 @@
      id="namedview9278"
      showgrid="false"
      inkscape:zoom="1.1113613"
-     inkscape:cx="378.58747"
-     inkscape:cy="526.18111"
+     inkscape:cx="344.42714"
+     inkscape:cy="373.31074"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6729" />
+     inkscape:current-layer="svg6729"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-left="10" />
   <g
      id="surface580407"
-     transform="matrix(0,1,-1,0,728.23871,144.81949)">
+     transform="matrix(0,1,-1,0,700.91044,-160.42158)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79971004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
        d="m 2519.9997,1275 0,-375"
